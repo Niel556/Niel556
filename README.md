@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=Building%20at%20the%20edge%20of%20Vision&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0000,100:4a0007&height=150&section=header&text=Building%20at%20the%20edge%20of%20Vision&fontSize=40&fontColor=c9a876&fontAlignY=40&animation=fadeIn&desc=Where%20darkness%20meets%20design&descAlignY=65&descSize=16" />
 </p>
 
 ### ◈ Status
